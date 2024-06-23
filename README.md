@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </div>
 
 ##
-### ❤️‍🔥 I love these technologies and use them 
+### ❤️‍🔥 I love these technologies and I use them 
 <div style="display: inline_block">    
   <br>
 <img align="center" alt="vasco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
