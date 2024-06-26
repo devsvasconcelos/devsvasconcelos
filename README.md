@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="vasco-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//bootstrap/bootstrap-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
