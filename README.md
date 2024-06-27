@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 ### ❤️‍🔥 I love these technologies and I use them 
 <div style="display: inline_block">    
   <br>
-<img align="center" alt="vasco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="vasco-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img align="center" alt="vasco-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="vasco-Ts" height="50"width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="center" alt="vasco-Python" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="vasco-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img align="center" alt="vasco-Csharp" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="vasco-Ts" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img align="center" alt="vasco-Ts" height="50"width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
