@@ -1,3 +1,5 @@
+![eu](https://raw.githubusercontent.com/devsvasconcelos/devsvasconcelos/main/eu.jpg)
+
 ## Olá Sou Diogo vasconcelos 👋
 
 Eu sou aquele desenvolvedor que adora transformar ideias em código vivo e funcional. Minha jornada pelo mundo do desenvolvimento web me levou a dominar várias ferramentas e tecnologias:
