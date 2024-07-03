@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 </div>
 
 ##
+
+<img align="center" alt="vasco-Python" src="https://repository-images.githubusercontent.com/521515652/d0a2676e-2a17-4ad1-8e2d-54dc08db0db7">
+
+##
 ### ❤️‍🔥 I love these technologies and I use them 
 <div style="display: inline_block">    
   <br>
