@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 <div style="display: inline_block">
   <a href=htpps://beacons.ai/devsvasconcelos>
-    <img width=350rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsvasconcelos&layout=compact&theme=dracula&langs_count=10">
-    <img width=450rem src="https://github-readme-streak-stats.herokuapp.com/?user=devsvasconcelos&theme=dracula&hide_border=false">
+    <img height=250  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsvasconcelos&layout=compact&theme=dracula&langs_count=10">
+    <img height=250  src="https://github-readme-streak-stats.herokuapp.com/?user=devsvasconcelos&theme=dracula&hide_border=false">
 </div>
 
 ##
