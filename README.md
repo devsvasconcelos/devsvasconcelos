@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ☕ I Love Coffee
 
 
-<div style="display: inline_block">s>
+<div style="display: inline_block">
     <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsvasconcelos&layout=compact&theme=dracula&langs_count=10">
     <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=devsvasconcelos&theme=dracula&hide_border=false">
 </div>
