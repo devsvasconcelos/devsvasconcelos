@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 - ☕ I Love Coffee
 
 
-<div style="display: inline_block">
-  <a href=htpps://beacons.ai/devsvasconcelos>
+<div style="display: inline_block">s>
     <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsvasconcelos&layout=compact&theme=dracula&langs_count=10">
     <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=devsvasconcelos&theme=dracula&hide_border=false">
 </div>
@@ -60,23 +59,23 @@ Here are some ideas to get you started:
 <img align="center" alt="vasco-Python" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="vasco-Js" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 <img align="center" alt="vasco-Csharp" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="vasco-Ts" height="80"width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-<img align="center" alt="vasco-Ts" height="50"width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="vasco-Ts" height="50"width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="vasco-Ts" height="80" width="100"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="center" alt="vasco-Ts" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="vasco-Ts" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="vasco-React" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="vasco-React" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg">
+<img align="center" alt="vasco-React" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg">
 <img align="center" alt="vasco-React" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="vasco-React" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" alt="vasco-React" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="vasco-React" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+<img align="center" alt="vasco-React" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="vasco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="vasco-React" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="vasco-React" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="vasco-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 <img align="center" alt="vasco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//bootstrap/bootstrap-original.svg">
