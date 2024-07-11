@@ -4,7 +4,7 @@
 
 Eu sou aquele desenvolvedor que adora transformar ideias em código vivo e funcional. Minha jornada pelo mundo do desenvolvimento web me levou a dominar várias ferramentas e tecnologias:
 
-🌐 Construo aplicações web completas, desde o front-end interativo com React e TypeScript até APIs robustas com Python e bancos de dados.
+🌐 Aplicações web completas, desde o front-end interativo com React e TypeScript até APIs robustas com Python e bancos de dados.
 
 🚀 linguagens como Python, TypeScript, PHP e Golang.
 
@@ -14,9 +14,9 @@ Eu sou aquele desenvolvedor que adora transformar ideias em código vivo e funci
 
 Especializado em:
 
-🖥️ Desenvolvimento Front-end: Crio interfaces intuitivas e responsivas para uma experiência de usuário impecável.
+🖥️ Front-end: Crio interfaces intuitivas e responsivas para uma experiência de usuário impecável.
 
-📡 Desenvolvimento Back-end: Construo APIs seguras e escaláveis para lidar com qualquer desafio.
+📡 Back-end: Construo APIs seguras e escaláveis para lidar com qualquer desafio.
 
 🗄️ Bancos de Dados: Domino o PostgreSQL para gerenciar dados de maneira eficiente e confiável.
 
